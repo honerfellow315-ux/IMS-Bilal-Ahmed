@@ -1,6 +1,5 @@
   INVENTORY MANAGEMENT SYSTEM
   Developer : Bilal Ahmed
-  Seat No   : B2633029
 ============================================================
 
 PROJECT OVERVIEW:
